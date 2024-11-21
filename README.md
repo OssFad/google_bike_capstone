@@ -9,3 +9,7 @@ Cyclistic is a **bike-share company** based in Chicago that launched a successfu
 Cyclistic's marketing strategy has so far focused on building general awareness and appealing to broad consumer segments. The company offers flexibile pricing plans that cater to diverse needs of users including single-ride passes, full-day passes, and annual memberships. Besides, it provides reclining bikes, hand tricycles, and cargo bikes, effectively welcoming individuals with disabilities and those who can't ride on the standard two-wheeled bicycles. Based on the company database, Cyclistic users are more likely to ride for leisure, but about 30% use them to commute to work each day. While traditional bikes remain as the popular option, around 8% of users opt for the assistive alternatives. 
 
 The company's marketing director believes that the company’s future success depends on maximizing the number of annual memberships. Therefore, as a junior data analyst, my team and I have to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, we will design a new marketing strategy to convert casual riders into annual members. 
+
+##  Link to Visualize the Dashboard
+
+[View my Power BI Dashboard]([https://app.powerbi.com/groups/me/reports/your-report-id](https://app.powerbi.com/view?r=eyJrIjoiZjYwNDAyZjEtNjUxMC00Y2VjLWE4N2QtOTdiYWE4NzczNTRkIiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9))
