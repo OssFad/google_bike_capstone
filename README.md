@@ -1,5 +1,14 @@
 # Cyclistic Bike Share Case Study
 
+![Alt Text](https://github.com/OssFad/google_bike_capstone/blob/main/bike%20pbi.PNG)
+
+
+##  Link to Visualize the Dashboard
+
+[View my Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjYwNDAyZjEtNjUxMC00Y2VjLWE4N2QtOTdiYWE4NzczNTRkIiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9)
+
+
+
 ##  Introduction 
 The **Cyclistic Bike Share Case Study** is a capstone project for the **Google Data Analytics Professional Certificate** on Coursera. In this project, I will follow the data analysis process which I learned from the course: <ins>ask, prepare, process, analyze, share and act</ins> to analyze the data. 
 
@@ -10,6 +19,4 @@ Cyclistic's marketing strategy has so far focused on building general awareness 
 
 The company's marketing director believes that the company’s future success depends on maximizing the number of annual memberships. Therefore, as a junior data analyst, my team and I have to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, we will design a new marketing strategy to convert casual riders into annual members. 
 
-##  Link to Visualize the Dashboard
 
-[View my Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjYwNDAyZjEtNjUxMC00Y2VjLWE4N2QtOTdiYWE4NzczNTRkIiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9)
