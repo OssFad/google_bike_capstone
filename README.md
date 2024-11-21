@@ -12,4 +12,4 @@ The company's marketing director believes that the company’s future success de
 
 ##  Link to Visualize the Dashboard
 
-[View my Power BI Dashboard]([https://app.powerbi.com/groups/me/reports/your-report-id](https://app.powerbi.com/view?r=eyJrIjoiZjYwNDAyZjEtNjUxMC00Y2VjLWE4N2QtOTdiYWE4NzczNTRkIiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9))
+[View my Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjYwNDAyZjEtNjUxMC00Y2VjLWE4N2QtOTdiYWE4NzczNTRkIiwidCI6IjNkZmE1ODc5LTQ3NmYtNDViNC04MDc5LWZlNjBlYWYzZjhhNSJ9)
